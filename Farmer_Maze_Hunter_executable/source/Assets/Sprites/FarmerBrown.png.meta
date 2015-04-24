@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 00c1c2f69c84a2048a10e3c388995761
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FarmerBrown
+    21300002: FarmerBrown_0
+    21300004: FarmerBrown_1
+    21300006: FarmerBrown_2
+    21300008: FarmerBrown_3
+    21300010: FarmerBrown_4
+    21300012: FarmerBrown_5
+    21300014: FarmerBrown_6
+    21300016: FarmerBrown_7
+    21300018: FarmerBrown_8
+    21300020: FarmerBrown_9
+    21300022: FarmerBrown_10
+    21300024: FarmerBrown_11
+    21300026: FarmerBrown_12
+    21300028: FarmerBrown_13
+    21300030: FarmerBrown_14
+    21300032: FarmerBrown_15
+    21300034: FarmerBrown_16
+    21300036: FarmerBrown_17
+    21300038: FarmerBrown_18
+    21300040: FarmerBrown_19
+    21300042: FarmerBrown_20
+    21300044: FarmerBrown_21
+    21300046: FarmerBrown_22
+    21300048: FarmerBrown_23
+    21300050: FarmerBrown_24
+    21300052: FarmerBrown_25
+    21300054: FarmerBrown_26
+    21300056: FarmerBrown_27
+    21300058: FarmerBrown_28
+    21300060: FarmerBrown_29
+    21300062: FarmerBrown_30
+    21300064: FarmerBrown_31
+    21300066: FarmerBrown_32
+    21300068: FarmerBrown_33
+    21300070: FarmerBrown_34
+    21300072: FarmerBrown_35
+    21300074: FarmerBrown_36
+    21300076: FarmerBrown_37
+    21300078: FarmerBrown_38
+    21300080: FarmerBrown_39
+    21300082: FarmerBrown_40
+    21300084: FarmerBrown_41
+    21300086: FarmerBrown_42
+    21300088: FarmerBrown_43
+    21300090: FarmerBrown_44
+    21300092: FarmerBrown_45
+    21300094: FarmerBrown_46
+    21300096: FarmerBrown_47
+    21300098: FarmerBrown_48
+    21300100: FarmerBrown_49
+    21300102: FarmerBrown_50
+    21300104: FarmerBrown_51
+    21300106: FarmerBrown_52
+    21300108: FarmerBrown_53
+    21300110: FarmerBrown_54
+    21300112: FarmerBrown_55
+    21300114: FarmerBrown_56
+    21300116: FarmerBrown_57
+    21300118: FarmerBrown_58
+    21300120: FarmerBrown_59
+    21300122: FarmerBrown_60
+    21300124: FarmerBrown_61
+    21300126: FarmerBrown_62
+    21300128: FarmerBrown_63
+    21300130: FarmerBrown_64
+    21300132: FarmerBrown_65
+    21300134: FarmerBrown_66
+    21300136: FarmerBrown_67
+    21300138: FarmerBrown_68
+    21300140: FarmerBrown_69
+    21300142: FarmerBrown_70
+    21300144: FarmerBrown_71
+    21300146: FarmerBrown_72
+    21300148: FarmerBrown_73
+    21300150: FarmerBrown_74
+    21300152: FarmerBrown_75
+    21300154: FarmerBrown_76
+    21300156: FarmerBrown_77
+    21300158: FarmerBrown_78
+    21300160: FarmerBrown_79
+    21300162: FarmerBrown_80
+    21300164: FarmerBrown_81
+    21300166: FarmerBrown_82
+    21300168: FarmerBrown_83
+    21300170: FarmerBrown_84
+    21300172: FarmerBrown_85
+    21300174: FarmerBrown_86
+    21300176: FarmerBrown_87
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FarmerBrown_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 438
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 438
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 438
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 438
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 438
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 438
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 438
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 438
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 394
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 394
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 394
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 394
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 394
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 394
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 394
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 394
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 348
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 348
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 348
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 348
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 348
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 348
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 348
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 348
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 297
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 297
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 299
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 298
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 298
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 298
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 299
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 297
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 252
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 253
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 252
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 253
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_36
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 252
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_37
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 253
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 252
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 253
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 207
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 207
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 207
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 207
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_44
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 207
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 207
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 207
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_47
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 207
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 151
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 151
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 151
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 151
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 99
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_54
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 98
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_55
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 99
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 99
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 51
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 51
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 51
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_61
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 51
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 51
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 51
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_64
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_65
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 6
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_66
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: .505892336, y: .858005524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_67
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_68
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_69
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_71
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 15
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_72
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 18
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_73
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 18
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_74
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 18
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_75
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_76
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_77
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 18
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_78
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_79
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_80
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_81
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_83
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_84
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_85
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_86
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FarmerBrown_87
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

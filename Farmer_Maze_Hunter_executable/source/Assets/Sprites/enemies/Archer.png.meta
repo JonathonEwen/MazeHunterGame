@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 2e4cd1d66fef06b4280c1207b2189177
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Archer
+    21300002: Archer_0
+    21300004: Archer_1
+    21300006: Archer_2
+    21300008: Archer_3
+    21300010: Archer_4
+    21300012: Archer_5
+    21300014: Archer_6
+    21300016: Archer_7
+    21300018: Archer_8
+    21300020: Archer_9
+    21300022: Archer_10
+    21300024: Archer_11
+    21300026: Archer_12
+    21300028: Archer_13
+    21300030: Archer_14
+    21300032: Archer_15
+    21300034: Archer_16
+    21300036: Archer_17
+    21300038: Archer_18
+    21300040: Archer_19
+    21300042: Archer_20
+    21300044: Archer_21
+    21300046: Archer_22
+    21300048: Archer_23
+    21300050: Archer_24
+    21300052: Archer_25
+    21300054: Archer_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Archer_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 173
+        width: 57
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 172
+        width: 57
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 172
+        width: 49
+        height: 78
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 172
+        width: 51
+        height: 76
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 171
+        width: 79
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 214
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 214
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 205
+        width: 31
+        height: 6
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 187
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 187
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 86
+        width: 60
+        height: 79
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 160
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 160
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 44
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 41
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 44
+        width: 33
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 32
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 25
+        width: 33
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 25
+        width: 47
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 25
+        width: 4
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 25
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 25
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 25
+        width: 28
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 4
+        width: 38
+        height: 18
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Archer_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 117
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

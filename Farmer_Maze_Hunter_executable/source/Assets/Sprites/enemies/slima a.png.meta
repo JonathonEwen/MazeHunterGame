@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: bc951dc82f9a2ca489cde289ef03a9e7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slima a
+    21300002: slima a_0
+    21300004: slima a_1
+    21300006: slima a_2
+    21300008: slima a_3
+    21300010: slima a_4
+    21300012: slima a_5
+    21300014: slima a_6
+    21300016: slima a_7
+    21300018: slima a_8
+    21300020: slima a_9
+    21300022: slima a_10
+    21300024: slima a_11
+    21300026: slima a_12
+    21300028: slima a_13
+    21300030: slima a_14
+    21300032: slima a_15
+    21300034: slima a_16
+    21300036: slima a_17
+    21300038: slima a_18
+    21300040: slima a_19
+    21300042: slima a_20
+    21300044: slima a_21
+    21300046: slima a_22
+    21300048: slima a_23
+    21300050: slima a_24
+    21300052: slima a_25
+    21300054: slima a_26
+    21300056: slima a_27
+    21300058: slima a_28
+    21300060: slima a_29
+    21300062: slima a_30
+    21300064: slima a_31
+    21300066: slima a_32
+    21300068: slima a_33
+    21300070: slima a_34
+    21300072: slima a_35
+    21300074: slima a_36
+    21300076: slima a_37
+    21300078: slima a_38
+    21300080: slima a_39
+    21300082: slima a_40
+    21300084: slima a_41
+    21300086: slima a_42
+    21300088: slima a_43
+    21300090: slima a_44
+    21300092: slima a_45
+    21300094: slima a_46
+    21300096: slima a_47
+    21300098: slima a_48
+    21300100: slima a_49
+    21300102: slima a_50
+    21300104: slima a_51
+    21300106: slima a_52
+    21300108: slima a_53
+    21300110: slima a_54
+    21300112: slima a_55
+    21300114: slima a_56
+    21300116: slima a_57
+    21300118: slima a_58
+    21300120: slima a_59
+    21300122: slima a_60
+    21300124: slima a_61
+    21300126: slima a_62
+    21300128: slima a_63
+    21300130: slima a_64
+    21300132: slima a_65
+    21300134: slima a_66
+    21300136: slima a_67
+    21300138: slima a_68
+    21300140: slima a_69
+    21300142: slima a_70
+    21300144: slima a_71
+    21300146: slima a_72
+    21300148: slima a_73
+    21300150: slima a_74
+    21300152: slima a_75
+    21300154: slima a_76
+    21300156: slima a_77
+    21300158: slima a_78
+    21300160: slima a_79
+    21300162: slima a_80
+    21300164: slima a_81
+    21300166: slima a_82
+    21300168: slima a_83
+    21300170: slima a_84
+    21300172: slima a_85
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: slima a_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 234
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 234
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 234
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 233
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 234
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 234
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 234
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 234
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 234
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 234
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 202
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 202
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 202
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 202
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 202
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 202
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 202
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 202
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 202
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 170
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 170
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 170
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 170
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 170
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 169
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 170
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 170
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 170
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 138
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 138
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 138
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 138
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 138
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 138
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 138
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_35
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 138
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_36
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 138
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 106
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 106
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_39
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 106
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_41
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 106
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 106
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 106
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_44
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 106
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 74
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 74
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_47
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 74
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_49
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 74
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 74
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 74
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_53
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_57
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_58
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_59
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 36
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_61
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_63
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 38
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 38
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_65
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 36
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_67
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_69
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 38
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_70
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_71
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_72
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_73
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_74
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 38
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_75
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_76
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_77
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 26
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 26
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_80
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_81
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_82
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_83
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 26
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_84
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slima a_85
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 26
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

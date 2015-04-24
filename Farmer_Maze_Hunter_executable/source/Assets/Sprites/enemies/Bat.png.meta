@@ -1,0 +1,1984 @@
+fileFormatVersion: 2
+guid: 716525e5097b22549a5abc62ea7cfc3e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bat
+    21300002: Bat_0
+    21300004: Bat_1
+    21300006: Bat_2
+    21300008: Bat_3
+    21300010: Bat_4
+    21300012: Bat_5
+    21300014: Bat_6
+    21300016: Bat_7
+    21300018: Bat_8
+    21300020: Bat_9
+    21300022: Bat_10
+    21300024: Bat_11
+    21300026: Bat_12
+    21300028: Bat_13
+    21300030: Bat_14
+    21300032: Bat_15
+    21300034: Bat_16
+    21300036: Bat_17
+    21300038: Bat_18
+    21300040: Bat_19
+    21300042: Bat_20
+    21300044: Bat_21
+    21300046: Bat_22
+    21300048: Bat_23
+    21300050: Bat_24
+    21300052: Bat_25
+    21300054: Bat_26
+    21300056: Bat_27
+    21300058: Bat_28
+    21300060: Bat_29
+    21300062: Bat_30
+    21300064: Bat_31
+    21300066: Bat_32
+    21300068: Bat_33
+    21300070: Bat_34
+    21300072: Bat_35
+    21300074: Bat_36
+    21300076: Bat_37
+    21300078: Bat_38
+    21300080: Bat_39
+    21300082: Bat_40
+    21300084: Bat_41
+    21300086: Bat_42
+    21300088: Bat_43
+    21300090: Bat_44
+    21300092: Bat_45
+    21300094: Bat_46
+    21300096: Bat_47
+    21300098: Bat_48
+    21300100: Bat_49
+    21300102: Bat_50
+    21300104: Bat_51
+    21300106: Bat_52
+    21300108: Bat_53
+    21300110: Bat_54
+    21300112: Bat_55
+    21300114: Bat_56
+    21300116: Bat_57
+    21300118: Bat_58
+    21300120: Bat_59
+    21300122: Bat_60
+    21300124: Bat_61
+    21300126: Bat_62
+    21300128: Bat_63
+    21300130: Bat_64
+    21300132: Bat_65
+    21300134: Bat_66
+    21300136: Bat_67
+    21300138: Bat_68
+    21300140: Bat_69
+    21300142: Bat_70
+    21300144: Bat_71
+    21300146: Bat_72
+    21300148: Bat_73
+    21300150: Bat_74
+    21300152: Bat_75
+    21300154: Bat_76
+    21300156: Bat_77
+    21300158: Bat_78
+    21300160: Bat_79
+    21300162: Bat_80
+    21300164: Bat_81
+    21300166: Bat_82
+    21300168: Bat_83
+    21300170: Bat_84
+    21300172: Bat_85
+    21300174: Bat_86
+    21300176: Bat_87
+    21300178: Bat_88
+    21300180: Bat_89
+    21300182: Bat_90
+    21300184: Bat_91
+    21300186: Bat_92
+    21300188: Bat_93
+    21300190: Bat_94
+    21300192: Bat_95
+    21300194: Bat_96
+    21300196: Bat_97
+    21300198: Bat_98
+    21300200: Bat_99
+    21300202: Bat_100
+    21300204: Bat_101
+    21300206: Bat_102
+    21300208: Bat_103
+    21300210: Bat_104
+    21300212: Bat_105
+    21300214: Bat_106
+    21300216: Bat_107
+    21300218: Bat_108
+    21300220: Bat_109
+    21300222: Bat_110
+    21300224: Bat_111
+    21300226: Bat_112
+    21300228: Bat_113
+    21300230: Bat_114
+    21300232: Bat_115
+    21300234: Bat_116
+    21300236: Bat_117
+    21300238: Bat_118
+    21300240: Bat_119
+    21300242: Bat_120
+    21300244: Bat_121
+    21300246: Bat_122
+    21300248: Bat_123
+    21300250: Bat_124
+    21300252: Bat_125
+    21300254: Bat_126
+    21300256: Bat_127
+    21300258: Bat_128
+    21300260: Bat_129
+    21300262: Bat_130
+    21300264: Bat_131
+    21300266: Bat_132
+    21300268: Bat_133
+    21300270: Bat_134
+    21300272: Bat_135
+    21300274: Bat_136
+    21300276: Bat_137
+    21300278: Bat_138
+    21300280: Bat_139
+    21300282: Bat_140
+    21300284: Bat_141
+    21300286: Bat_142
+    21300288: Bat_143
+    21300290: Bat_144
+    21300292: Bat_145
+    21300294: Bat_146
+    21300296: Bat_147
+    21300298: Bat_148
+    21300300: Bat_149
+    21300302: Bat_150
+    21300304: Bat_151
+    21300306: Bat_152
+    21300308: Bat_153
+    21300310: Bat_154
+    21300312: Bat_155
+    21300314: Bat_156
+    21300316: Bat_157
+    21300318: Bat_158
+    21300320: Bat_159
+    21300322: Bat_160
+    21300324: Bat_161
+    21300326: Bat_162
+    21300328: Bat_163
+    21300330: Bat_164
+    21300332: Bat_165
+    21300334: Bat_166
+    21300336: Bat_167
+    21300338: Bat_168
+    21300340: Bat_169
+    21300342: Bat_170
+    21300344: Bat_171
+    21300346: Bat_172
+    21300348: Bat_173
+    21300350: Bat_174
+    21300352: Bat_175
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bat_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1209
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1209
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1207
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1205
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1209
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1209
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1207
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1205
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1209
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_9
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1209
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_10
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1207
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_11
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1205
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1147
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1147
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1145
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1143
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1147
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1147
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1145
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_19
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1143
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_20
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1147
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_21
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1147
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_22
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1145
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_23
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1143
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1085
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1085
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1083
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1081
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1085
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_29
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1085
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1083
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_31
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1081
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_32
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1085
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_33
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1085
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_34
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1083
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_35
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1081
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1023
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1023
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1021
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1019
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1023
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1023
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_42
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1021
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_43
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1019
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_44
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1023
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_45
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1023
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_46
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1021
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_47
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1019
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 961
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_49
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 961
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_50
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 959
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 957
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_52
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 961
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_53
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 961
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_54
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 959
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_55
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 957
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_56
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 961
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_57
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 961
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_58
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 959
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_59
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 957
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 899
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 899
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_62
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 897
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_63
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 895
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_64
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 899
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_65
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 899
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_66
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 897
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_67
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 895
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_68
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 899
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_69
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 899
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_70
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 897
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_71
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 895
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 837
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_73
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 837
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_74
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 835
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 833
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_76
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 837
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_77
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 837
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_78
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 835
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_79
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 833
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_80
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 837
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_81
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 837
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_82
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 835
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_83
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 833
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 775
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_85
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 775
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_86
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 773
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_87
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 771
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_88
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 775
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_89
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 775
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_90
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 773
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_91
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 771
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_92
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 775
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_93
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 775
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_94
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 773
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_95
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 771
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 713
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_97
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 713
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_98
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 711
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_99
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 709
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_100
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 713
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_101
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 713
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_102
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 711
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_103
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 709
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_104
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 713
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_105
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 713
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_106
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 711
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_107
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 709
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 651
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_109
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 651
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_110
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 649
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_111
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 647
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_112
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 651
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_113
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 651
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_114
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 649
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_115
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 647
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_116
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 651
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_117
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 651
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_118
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 649
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_119
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 647
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 589
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_121
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 589
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_122
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 587
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_123
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 585
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_124
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 589
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_125
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 589
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_126
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 587
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_127
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 585
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_128
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 589
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_129
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 589
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_130
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 587
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_131
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 585
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_132
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 528
+        width: 54
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_133
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 465
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_134
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 465
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_135
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 463
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_136
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 461
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_137
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 403
+        width: 54
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_138
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 402
+        width: 59
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_139
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 340
+        width: 54
+        height: 44
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_140
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 279
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_141
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 278
+        width: 48
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_142
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 277
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_143
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 275
+        width: 52
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_144
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 217
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_145
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 217
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_146
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 206
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_147
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 207
+        width: 29
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_148
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 155
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_149
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 155
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_150
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 153
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_151
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 151
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_152
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 155
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_153
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 155
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_154
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 153
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_155
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 151
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_156
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 155
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_157
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 155
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_158
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 153
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_159
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 151
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_160
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 93
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_161
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 93
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_162
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 91
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_163
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 89
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_164
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 93
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_165
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 93
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_166
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 91
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_167
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 89
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_168
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 93
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_169
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 93
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_170
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 91
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_171
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 89
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_172
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 53
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_173
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 31
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_174
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 29
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bat_175
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 27
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
