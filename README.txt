@@ -1,4 +1,4 @@
-You can run the game by opening the .exe file.
+You can run the game by opening the .exe file. C# scripts can be found in Source/Assets/Scripts
 
 The object of the game is to find all 3 of the keys. You begin the game with the ability to use WASD to move, double jump, and fall through platforms
 and you can attack at a short distance using spacebar.
